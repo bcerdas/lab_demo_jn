@@ -12,5 +12,9 @@ public class Proyectofinal {
 
     public static void main(String[] args) {
         System.out.println("Proyecto final!");
+        
+        Users user  = new Users("bcerdas");
+        
+        
     }
 }
